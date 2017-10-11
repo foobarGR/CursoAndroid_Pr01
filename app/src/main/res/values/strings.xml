@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dia01_Practica_01</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_log_in">LogIn</string>
+    <string name="login_text_hint_correo_electronico">Correo electronico</string>
+    <string name="login_text_hint_contraseña">contraseña</string>
+    <string name="login_text_btn_Entrar">Entrar</string>
+    <string name="login_text_error_isEmpty">Correo vacio</string>
+    <string name="login_text_error_isEmpty_pass">Contraseña vacia</string>
+    <string name="login_textError_email_invalid">Correo no valido</string>
+</resources>

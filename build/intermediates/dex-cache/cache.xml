@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\juamp\.android\build-cache\1b6fd33f0c5863eb47d0d51065d0ec9eab634610\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="E:\TEC\PROYECTOS_EXTRA\CURSOANDROID\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9135839585be8746d536df29807ec1d46108ebed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\juamp\.android\build-cache\4f11fbd30b07eaeeb2285a6df318c5a5e3a0afb9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="E:\TEC\PROYECTOS_EXTRA\CURSOANDROID\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d9e600b067421aebea6fa392aaa4e87a7dd90f23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\juamp\.android\build-cache\a6a2fdfeb3977dc83e4daee01151918d433c3828\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="E:\TEC\PROYECTOS_EXTRA\CURSOANDROID\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8adc3e4c9db6fbdf9353ebf161948401c0774f9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\juamp\.android\build-cache\a4232de1ac95b3fe2ebc8a468c56f966c0e0ce7d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="E:\TEC\PROYECTOS_EXTRA\CURSOANDROID\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2f296d0e21977e48b9a8c1fc60aeb18e06c2ad53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\TEC\PROYECTOS_EXTRA\CURSOANDROID\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\TEC\PROYECTOS_EXTRA\CURSOANDROID\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_007ee010e5ff3374be5f8a7557971ec0fa78b490\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\TEC\PROYECTOS_EXTRA\CURSOANDROID\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="754a5e03a8e83722eba7ba36ae9df0e92ead6e48">
+        <dex dex="E:\TEC\PROYECTOS_EXTRA\CURSOANDROID\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_aeb28fcabfcd54606caad52a2cad6cae62bf5e9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\juamp\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.8.1\bc373fb6bc7bca3035041b924f158fd2b946ee8d\butterknife-annotations-8.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="E:\TEC\PROYECTOS_EXTRA\CURSOANDROID\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.8.1_bb3f01c346bb0f50e63cd82d06c2f5543c0ece27\classes.dex" />
+    </item>
+
+</items>
